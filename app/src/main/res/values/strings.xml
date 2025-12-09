@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RestClientApp</string>
+    <string name="config_init_code">8X92-A</string>
+    <string name="default_error_msg">Une erreur est survenue.</string>
+</resources>
